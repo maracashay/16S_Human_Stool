@@ -1,7 +1,7 @@
 # 16S_Human_Stool
 
 Code for all of the major data processing and analyses performed are included herein.n/
-These steps include:n/
+These steps include:/n
 Filtering/trimmingn/
 Error modelingn/
 Denoisingn/
